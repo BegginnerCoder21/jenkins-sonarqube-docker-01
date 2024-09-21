@@ -1,1 +1,2 @@
 Ceci est un test pour l'analyse du nouveau code avec SonarQube
+Test pour me rassurer
